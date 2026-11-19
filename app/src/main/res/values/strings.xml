@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Prevo</string>
+    <string name="store_title">Prevo • قطع صيانة الموبايل</string>
+    <string name="admin_title">Prevo • الإدارة الرئيسية</string>
+    <string name="nav_store">المتجر</string>
+    <string name="nav_cart">السلة</string>
+    <string name="nav_orders">طلباتي</string>
+    <string name="nav_admin">الإدارة</string>
+    <string name="search_parts_hint">ابحث عن شاشة، بطارية، فلاتة، موديل...</string>
+    <string name="category_all">الكل</string>
+    <string name="category_screens">شاشات</string>
+    <string name="category_batteries">بطاريات</string>
+    <string name="category_flex">فلاتات</string>
+    <string name="category_other">قطع أخرى</string>
+    <string name="add_to_cart">إضافة للسلة</string>
+    <string name="out_of_stock">نفذت الكمية</string>
+    <string name="cart_empty_title">سلة المشتريات فارغة</string>
+    <string name="cart_empty_subtitle">تصفح قسم الشاشات والبطاريات والفلاتات وأضف القطع التي تحتاجها</string>
+    <string name="checkout_button">إتمام الطلب</string>
+    <string name="confirm_order">تأكيد وإرسال الطلب</string>
+    <string name="add_new_part">إضافة قطعة جديدة</string>
+    <string name="edit_part">تعديل بيانات القطعة</string>
+    <string name="error_empty_fields">يرجى تعبئة الحقول المطلوبة بشكل صحيح</string>
+</resources>

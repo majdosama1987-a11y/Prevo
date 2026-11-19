@@ -1,0 +1,6 @@
+{
+  "name": "Prevo",
+  "description": "متجر وسلة مشتريات لقطع صيانة الموبايل مع لوحة إدارة رئيسية لإضافة القطع والأسعار وإدارة الطلبات",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
